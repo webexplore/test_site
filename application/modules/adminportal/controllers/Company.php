@@ -1,9 +1,6 @@
 <?php
-
 (defined('BASEPATH')) OR exit('No direct script access allowed');
-
-
-class Home extends MY_Controller {
+class Company extends MY_Controller {
 
     function __construct() {
         parent::__construct();
@@ -13,7 +10,7 @@ class Home extends MY_Controller {
     }
 
     function index() {
-       $data['view_file'] = 'home';
+       $data['view_file'] = 'company/registration-view';
        $this->template->admin_template($data);
     }
 
