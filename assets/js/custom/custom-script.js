@@ -9,3 +9,9 @@ NOTE:
 ------
 PLACE HERE YOUR OWN JS CODES AND IF NEEDED.
 WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR CUSTOM SCRIPT IT'S BETTER LIKE THIS. */
+$(".select2-theme").select2({
+    dropdownAutoWidth: true,
+    width: '100%',
+    //placeholder: "Classic Theme",
+    theme: "classic"
+});

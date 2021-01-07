@@ -2,7 +2,8 @@
     --theme_color: #b121a5; 
     --theme_text_color:red;
     --theme_input_medium_height:2.5rem;
-    --theme_input_border_color:red;
-    --theme_input_border_radius:1rem;
+    --theme_input_border_color:#918895;
+    --theme_input_border_radius:5px;
+    --theme_form_label_color:#402e39;
 
 }
