@@ -5,5 +5,8 @@
     --theme_input_border_color:#918895;
     --theme_input_border_radius:5px;
     --theme_form_label_color:#402e39;
+    --theme_bg_clr_gradient_from: #8f1cee;
+    --theme_bg_clr_gradient_to: #540099;
+    --theme_page_header_bg:#8f1cee;
 
 }

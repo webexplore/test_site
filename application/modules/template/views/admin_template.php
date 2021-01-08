@@ -52,7 +52,7 @@ License: You must have a valid license purchased only from themeforest(the above
     <!-- BEGIN: Header-->
     <header class="page-topbar" id="header">
       <div class="navbar navbar-fixed"> 
-        <nav class="navbar-main navbar-color nav-collapsible sideNav-lock navbar-dark gradient-45deg-indigo-purple no-shadow">
+        <nav class="navbar-main navbar-color nav-collapsible sideNav-lock navbar-dark gradient-theme-custom-color no-shadow">
           <div class="nav-wrapper">
             <!-- <div class="header-search-wrapper hide-on-med-and-down"><i class="material-icons">search</i>
               <input class="header-search-input z-depth-2" type="text" name="Search" placeholder="Explore Materialize" data-search="template-list">
@@ -161,9 +161,9 @@ License: You must have a valid license purchased only from themeforest(the above
 
     <!-- BEGIN: Footer-->
 
-    <footer class="page-footer footer footer-static footer-dark gradient-45deg-indigo-purple gradient-shadow navbar-border navbar-shadow">
+    <footer class="page-footer footer footer-fixed navbar-border navbar-shadow">
       <div class="footer-copyright">
-        <div class="container"><span>&copy; 2020          <a href="http://themeforest.net/user/pixinvent/portfolio?ref=pixinvent" target="_blank">PIXINVENT</a> All rights reserved.</span><span class="right hide-on-small-only">Design and Developed by <a href="https://pixinvent.com/">PIXINVENT</a></span></div>
+        <div class="container"><span>&copy; 2020  <a href="javascript:;" target="_blank">Test</a> All rights reserved.</span><span class="right hide-on-small-only">Design and Developed by <a href="javascript:;">Test</a></span></div>
       </div>
     </footer>
 
@@ -182,12 +182,12 @@ License: You must have a valid license purchased only from themeforest(the above
     <!-- BEGIN THEME  JS-->
     <script src="<?php echo base_url(); ?>assets/vendors/select2/select2.full.min.js"></script>
     <script src="<?php echo base_url(); ?>assets/js/plugins.js"></script>
-    <script src="<?php echo base_url(); ?>assets/js/search.js"></script>
+     <!--<script src="<?php echo base_url(); ?>assets/js/search.js"></script> -->
 
     <script src="<?php echo base_url(); ?>assets/js/scripts/customizer.js"></script>
     <!-- END THEME  JS-->
     <!-- BEGIN PAGE LEVEL JS-->
-    <script src="<?php echo base_url(); ?>assets/js/scripts/dashboard-modern.js"></script>
+    <!-- <script src="<?php echo base_url(); ?>assets/js/scripts/dashboard-modern.js"></script> -->
     <!-- <script src="<?php echo base_url(); ?>assets/js/scripts/intro.js"></script> -->
     <script src="<?php echo base_url(); ?>assets/js/custom/custom-script.js"></script>
     <!-- END PAGE LEVEL JS-->

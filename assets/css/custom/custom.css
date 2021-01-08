@@ -55,3 +55,9 @@
 input[type="search"]:not(.browser-default):focus:not([readonly]){
     box-shadow: 0px 0px 0px 0px;
 }
+.gradient-theme-custom-color  {
+    background: linear-gradient(45deg, var(--theme_bg_clr_gradient_from),var(--theme_bg_clr_gradient_to)) !important;
+}
+.theme_header_page_bg {
+    background-color: var(--theme_page_header_bg) !important;;
+}

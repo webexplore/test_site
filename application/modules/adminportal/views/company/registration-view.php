@@ -1,5 +1,5 @@
 <div class="row">
-        <div class="content-wrapper-before gradient-45deg-indigo-purple"></div>
+        <div class="content-wrapper-before theme_header_page_bg"></div>
         <div class="breadcrumbs-dark pb-0" id="breadcrumbs-wrapper">
           <div class="container">
             <div class="row">
