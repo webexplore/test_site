@@ -14,9 +14,9 @@
                   </li>
                 </ol>
               </div>
-              <div class="col s2 m6 l6"><a class="btn dropdown-settings waves-effect waves-light breadcrumbs-btn right" href="#!" data-target="dropdown1"><i class="material-icons hide-on-med-and-up">settings</i><span class="hide-on-small-onl">Options</span><i class="material-icons right">arrow_drop_down</i></a>
+              <div class="col s2 m6 l6"><a class="btn dropdown-settings waves-effect waves-light breadcrumbs-btn right theme-form-option-btn" href="#!" data-target="dropdown1"><i class="material-icons hide-on-med-and-up">settings</i><span class="hide-on-small-onl">Options</span><i class="material-icons right">arrow_drop_down</i></a>
                 <ul class="dropdown-content" id="dropdown1" tabindex="0">
-                  <li tabindex="0"><a class="grey-text text-darken-2" href="user-profile-page.html">List</a></li>
+                  <li tabindex="0"><a class="grey-text text-darken-2" href="user-profile-page.html">Company List</a></li>
                 </ul>
               </div>
             </div>
@@ -99,7 +99,7 @@
                                   </div> <!-- End of row-->
                                   <div class="row">
                                     <div class="input-field col s12">
-                                      <button class="btn waves-effect waves-light btn gradient-45deg-red-pink z-depth-4 right" type="button" name="action">Save
+                                      <button class="btn waves-effect waves-light btn gradient-theme-custom-color theme-form-button  z-depth-2 right" type="button" name="action">Save
                                         <i class="material-icons right">send</i>
                                       </button>
                                     </div>

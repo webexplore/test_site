@@ -1,5 +1,5 @@
 :root {
-    --theme_color: #b121a5; 
+    --theme_color: #6006aa; 
     --theme_text_color:red;
     --theme_input_medium_height:2.5rem;
     --theme_input_border_color:#918895;
@@ -8,5 +8,7 @@
     --theme_bg_clr_gradient_from: #8f1cee;
     --theme_bg_clr_gradient_to: #540099;
     --theme_page_header_bg:#8f1cee;
+    --theme_form_option_btn_color:#ffffff;
+    --theme_form_btn_text_color:#8f1cee;
 
 }

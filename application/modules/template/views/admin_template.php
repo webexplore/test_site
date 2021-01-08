@@ -161,7 +161,7 @@ License: You must have a valid license purchased only from themeforest(the above
 
     <!-- BEGIN: Footer-->
 
-    <footer class="page-footer footer footer-fixed navbar-border navbar-shadow">
+    <footer class="page-footer footer footer-static navbar-border navbar-shadow theme-footer">
       <div class="footer-copyright">
         <div class="container"><span>&copy; 2020  <a href="javascript:;" target="_blank">Test</a> All rights reserved.</span><span class="right hide-on-small-only">Design and Developed by <a href="javascript:;">Test</a></span></div>
       </div>
